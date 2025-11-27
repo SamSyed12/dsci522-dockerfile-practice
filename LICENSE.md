@@ -1,3 +1,7 @@
+Except where otherwise noted, the example programs and other software provided in the dsci522-dockerfile-practice repository are made available under the MIT license.
+
+Note: This only covers the code included in docker-publish.yml.
+
 MIT License
 
 Copyright (c) 2025 SamSyed12
