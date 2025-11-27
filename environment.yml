@@ -2,6 +2,5 @@ name: dockerlock
 channels:
 - conda-forge
 dependencies:
-- conda-lock=>3.0.4
-- altair
+- altair=5.1.2
 - python=3.11
